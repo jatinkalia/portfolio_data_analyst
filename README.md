@@ -46,7 +46,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** A/B test design analysis, conclusion on rolling the new landing page design to production, recommendations on how to improve. 
 
 ### Sales Data Dashboard in Power BI
-**Code:** [`ya_ad_int_solution.ipynb `]()       
+**Code:** [`ya_ad_int_solution.ipynb `](https://github.com/jatinkalia/portfolio_data_analyst/blob/main/toysales.pbix)       
 **Description:** My submission to Yandex Advertising Analytics internship program.    
 **Skills:** data cleaning, CTR, CPC, CPA and CR calculation, comparing metrics with competitors, visualizing results, drawing conclusions.    
 **Technology:** Power BI    

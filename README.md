@@ -26,7 +26,7 @@ This repository serves as a showcase of my skills, a platform to share my projec
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Olympic Data Analysis
-**Code:** [`Link to site`](https://oda-pro.onrender.com)  [  Code](https://github.com/jatinkalia/ODA)  
+**Code:** [`Link to site`](https://oda-pro.onrender.com)  [`	Link to code`](https://github.com/jatinkalia/ODA)  
 **Description:** Data contains Olympic data since its start to 2016. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), measuring statistical factors, hypothesis testing.  
 **Skills:** data cleaning, data analysis, data visualization.  
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib,Streamlit.  

@@ -14,11 +14,11 @@ This repository serves as a showcase of my skills, a platform to share my projec
 
 ## Table of contents
 - [About](#About)
-- Portfolio Projects
-	+ Olympic Data Analysis
-	+ Health Data Analysis
-	+ UFC Data Analysis
-	+ Sales Data Dashboard in Power BI
+- [Portfolio Projects](#Portfolio-Projects)
+	+ [Olympic Data Analysis](#Olympic-Data-Analysis)
+	+ [Health Data Analysis](#Health-Data-Analysis)
+	+ [UFC Data Analysis](#UFC-Data-Analysis)
+	+ [Sales Data Dashboard in Power BI](#Sales-Data-Dashboard-in-Power-BI)
 	
 
 

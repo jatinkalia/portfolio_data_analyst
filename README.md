@@ -33,7 +33,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Review of the global and regional video games markets, data-based business recommendations.  
 
 ### Health Data Analysis
-**Code:** [`final_project.ipynb`]()       
+**Code:** [`Untitled.ipynb`](https://github.com/jatinkalia/portfolio_data_analyst/blob/main/Untitled.ipynb)       
 **Description:** The final project for 5 month Data Analysis Course. Setup: you're employed in a mobile games development company. A Product Manager gives you following tasks: to find and visualize retention, to make a decision based on the A/B test data, to suggest a number of metrics to evaluate the results of the last monthly campaign.   
 **Skills:** data cleaning, detecting data anomalies, python coding, data visualization,
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.     

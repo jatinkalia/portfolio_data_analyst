@@ -40,7 +40,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** python functions to calculate and plot users retention, hypothesis testing, detecting statistically significant result with a recommendation to push tested in-app changes into production, a set of metrics to evaluate success of promotion campaign.  
 
 ### UFC Data Analysis
-**Code:** [`notebook.ipynb`]()       
+**Code:** [`UFC.ipynb`](https://github.com/jatinkalia/portfolio_data_analyst/blob/main/UFC.ipynb)       
 **Description:** My solution to an open Data Analyst competition held by [Карьерный Цех](https://careerfactory.ru/). The solution took the 7th place in the competition (≈100 solutions were submitted by participants).     
 **Skills:**  data cleaning, data anomalies detection, checking splitting system, plotting results, making conclusion and giving recommendations for follow-up actions. **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.   
 **Results:** A/B test design analysis, conclusion on rolling the new landing page design to production, recommendations on how to improve. 
